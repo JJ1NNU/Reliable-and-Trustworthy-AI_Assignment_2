@@ -3,3 +3,16 @@
 ./Driving/training
 ./Drebin/dataset
 /Drebin/*.h5
+
+models/*.h5
+*.pth
+*.h5
+
+seeds/
+generated_inputs/
+
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
